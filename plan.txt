@@ -8,3 +8,4 @@ Dan ini merupakan serangkaian study plan saya selama liburan semester genap:
 4. Belajar PBO Pyhton
 5. Belajar Database
 6. Belajar AI
+7. Belajar Machine Learning
