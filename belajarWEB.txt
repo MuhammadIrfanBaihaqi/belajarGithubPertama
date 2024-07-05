@@ -3,4 +3,5 @@ akan belajar:
 2. CSS
 3. JAVASCRIPT
 4. FRAMEWORK FLASK
-5. DOM
+5. Document Object Model
+6. Laravel
