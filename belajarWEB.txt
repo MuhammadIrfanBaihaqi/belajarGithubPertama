@@ -5,3 +5,4 @@ akan belajar:
 4. FRAMEWORK FLASK
 5. Document Object Model
 6. Laravel
+7. FRAMEWORK LARAVEL
